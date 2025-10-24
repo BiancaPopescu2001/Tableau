@@ -5,16 +5,14 @@
 
 ## TABLE OF CONTENT
 - [Introduction](#introduction)
-- [Objective](#objective)
-- [Problem Statement](#problem-statement)
-- [Goals](#goals)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Data Dictionary](#data-dictionary)
-- [SQL Code](#sql-code)
-- [Python Approach](#python-approach)
-- [Dashboard Link](#dashboard-link)
-- [Conclusion](#conclusion)
-- [Recommendations](#recommendations)
+- [Sales Dashboard | Requirements](#salesdashboardrequirements)
+  - [Dashboard Purpose](#dashboardpurpose)
+  - [Key Requirements](#keyrequirements)
+      - [KPI Overview](#kpioverview)
+      - [Sales Trends](#salestrend)
+      - [Product Subcategory Comparison](#productcomparison)
+      - [Weekly Trends for Sales & Profit](#weeklytrends)
+
 
 ## Introduction
 This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
