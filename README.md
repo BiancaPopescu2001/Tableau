@@ -1,6 +1,7 @@
 # Sales & Customers Dashboard
 
-![Dashboard Preview]([https://link-la-imaginea-ta.png](https://public.tableau.com/app/profile/bianca.popescu/viz/SalesDashboard_17612430350950/SalesDashboard))
+[![Dashboard Preview](https://github.com/BiancaPopescu2001/Tableau/blob/c99714fd1e4cfe094fd5417e5e274135179837de/dashboard%20preview.png)](https://public.tableau.com/app/profile/bianca.popescu/viz/SalesDashboard_17612430350950/SalesDashboard)
+
 
 ## TABLE OF CONTENT
 - [Introduction](#introduction)
