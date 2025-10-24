@@ -48,6 +48,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Calculated Fields
 In this section, I will present the calculated fields I have developed to implement the KPIs described above.
+
 `IF YEAR([Order Date]) = [Select Year] THEN [Profit] END`
 
 ## Dashboard Link
