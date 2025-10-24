@@ -12,7 +12,12 @@
     - [Sales Trends](#sales-trends)
     - [Product Subcategory Comparison](#product-subcategory-comparison)
     - [Weekly Trends for Sales & Profit](#weekly-trends-for-sales--profit)
+- [Calculated Fields] (#calculatedfields)
 - [Data Modelling](#datamodelling)
+- Analysis(#analysis)
+- [Dashboard Link](#dashboardlink)
+- [Conclusion[(#conclusion)
+  
 
 
 ## Introduction
