@@ -47,6 +47,9 @@ Display a summary of total sales, profits and quantity for the current year and 
 -	Display the average weekly values.
 -	Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+## Calculated Fields
+In this section, I will present the calculated fields I have developed to implement the KPIs described above.
+
 ## Dashboard Link
 
 https://public.tableau.com/app/profile/bianca.popescu/viz/SalesDashboard_17612430350950/SalesDashboard
