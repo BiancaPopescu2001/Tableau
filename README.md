@@ -34,7 +34,6 @@ The purpose of Sales Dashboard is to present an overview of the sales metrics an
 Display a summary of total sales, profits and quantity for the current year and the previous year
 
 #### Sales Trends
-
 -	Present the data for each KPI on a monthly basis for both the current year and the previous year.
 -	Identify months with highest and lowest sales and make them easy to recognize.
 
@@ -49,6 +48,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Calculated Fields
 In this section, I will present the calculated fields I have developed to implement the KPIs described above.
+`IF YEAR([Order Date]) = [Select Year] THEN [Profit] END`
 
 ## Dashboard Link
 
