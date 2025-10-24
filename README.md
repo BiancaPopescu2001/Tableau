@@ -12,7 +12,6 @@
     - [Sales Trends](#sales-trends)
     - [Product Subcategory Comparison](#product-subcategory-comparison)
     - [Weekly Trends for Sales & Profit](#weekly-trends-for-sales--profit)
-- [Calculated Fields](#calculatedfields)
 - [Data Modelling](#datamodelling)
 - [Analysis](#analysis)
 - [Dashboard Link](#dashboardlink)
@@ -46,10 +45,8 @@ Display a summary of total sales, profits and quantity for the current year and 
 -	Display the average weekly values.
 -	Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
-## Calculated Fields
-In this section, I will present the calculated fields I have developed to implement the KPIs described above.
+## Data Modelling
 
-`IF YEAR([Order Date]) = [Select Year] THEN [Profit] END`
 
 ## Dashboard Link
 
