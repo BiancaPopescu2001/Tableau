@@ -47,7 +47,18 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Data Modelling
 
+## Analysis
+2023 outperformed 2022 in all key metrics (sales, profit, and quantity).
+
+Profitability is not evenly distributed — some high-revenue subcategories underperform in terms of profit.
+
+The final quarter shows a noticeable upward trend, suggesting effective seasonal strategies or increased demand.
+
 
 ## Dashboard Link
 
 https://public.tableau.com/app/profile/bianca.popescu/viz/SalesDashboard_17612430350950/SalesDashboard
+
+## Conclusion
+
+Future strategies should focus on improving margins in low-profit categories while maintaining sales growth momentum.
