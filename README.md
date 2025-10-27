@@ -145,6 +145,12 @@ Display a summary of total sales, profits and quantity for the current year and 
     <td>Group that classifies a product based on its type, use, or characteristics</td>
     <td>Furniture</td>
   </tr>
+   <tr>
+    <td>Sub-Category</td>
+    <td>STRING</td>
+    <td>Specific classification within a category</td>
+    <td>Furniture</td>
+  </tr>
   <tr>
     <td>Product Name</td>
     <td>STRING</td>
