@@ -119,6 +119,29 @@ Display a summary of total sales, profits and quantity for the current year and 
   </tr>
 </table>
 
+3. **Products** - Each row represents an unique product from the platform
+
+<table>
+  <tr>
+    <th>Product ID</th>
+    <th>STRING</th>
+    <th>Unique ID for each product</th>
+    <th>FUR-BO-10000112</th>
+  </tr>
+  <tr>
+    <td>Category</td>
+    <td>STRING</td>
+    <td>Group that classifies a product based on its type, use, or characteristics</td>
+    <td>Furniture</td>
+  </tr>
+  <tr>
+    <td>Product Name</td>
+    <td>STRING</td>
+    <td>Unique name for each product</td>
+    <td>O'Sullivan 2-Shelf Heavy-Duty Bookcases</td>
+  </tr>
+</table>
+
 ## Data Modelling
 
 ## Analysis
