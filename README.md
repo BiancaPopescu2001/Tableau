@@ -76,10 +76,16 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 <table>
   <tr>
-    <th>Order ID</th>
-    <th>STRING</th>
-    <th>Unique ID for each order</th>
-    <th>CA-2022-152156</th>
+    <th>Field Name</th>
+    <th>Type</th>
+    <th>Description</th>
+    <th>Example</th>
+  </tr>
+  <tr>
+    <td>Order ID</td>
+    <td>STRING</td>
+    <td>Unique ID for each order</td>
+    <td>CA-2022-152156</td>
   </tr>
   <tr>
     <td>Order Date</td>
@@ -123,6 +129,11 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 <table>
   <tr>
+    <th>Field Name</th>
+    <th>Type</th>
+    <th>Description</th>
+    <th>Example</th>
+  </tr>
     <td>Product ID</td>
     <td>STRING</td>
     <td>Unique ID for each product</td>
