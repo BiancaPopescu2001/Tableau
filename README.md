@@ -49,6 +49,8 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Data Dictionary
 
+1. Customers - Each row represents a unique customer on the platform
+
 <table>
   <tr>
     <th>Field Name</th>
@@ -57,8 +59,8 @@ Display a summary of total sales, profits and quantity for the current year and 
     <th>Example</th>
   </tr>
   <tr>
-    <td>User_ID</td>
-    <td>STRING</td>
+    <td>Customer ID</td>
+    <td>Customer Name</td>
     <td>Unique ID for each user</td>
     <td>USER-00023</td>
   </tr>
