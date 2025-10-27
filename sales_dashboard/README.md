@@ -168,6 +168,9 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Data Modelling
 
+AAAAA
+[![Data Modelling]https://github.com/BiancaPopescu2001/Tableau/blob/298dd4b73161beb4d60189eb4c01f1a27948ab98/data%20modelling.png)](https://public.tableau.com/app/profile/bianca.popescu/viz/SalesDashboard_17612430350950/SalesDashboard)
+
 ## Analysis
 2023 outperformed 2022 in all key metrics (sales, profit, and quantity).
 
