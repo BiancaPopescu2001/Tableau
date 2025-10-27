@@ -12,9 +12,11 @@
     - [Sales Trends](#sales-trends)
     - [Product Subcategory Comparison](#product-subcategory-comparison)
     - [Weekly Trends for Sales & Profit](#weekly-trends-for-sales--profit)
-- [Data Modelling](#datamodelling)
+- [Skills demonstrated](#skills-demonstrated)
+- [Data Dictionary](#data-dictionarry)
+- [Data Modelling](#dat-amodelling)
 - [Analysis](#analysis)
-- [Dashboard Link](#dashboardlink)
+- [Dashboard Link](#dashboard-link)
 - [Conclusion](#conclusion)
   
 
