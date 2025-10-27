@@ -123,10 +123,10 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 <table>
   <tr>
-    <th>Product ID</th>
-    <th>STRING</th>
-    <th>Unique ID for each product</th>
-    <th>FUR-BO-10000112</th>
+    <td>Product ID</td>
+    <td>STRING</td>
+    <td>Unique ID for each product</td>
+    <td>FUR-BO-10000112</td>
   </tr>
   <tr>
     <td>Category</td>
