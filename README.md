@@ -47,6 +47,13 @@ Display a summary of total sales, profits and quantity for the current year and 
 -	Display the average weekly values.
 -	Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+## Skills Demonstrated
+- Data Visualization
+- Dashboard Design
+- Analytical Thinking / Problem Solving
+- Storytelling with Data
+- Trend & Pattern Analysis
+
 ## Data Dictionary
 
 1. **Customers** - Each row represents a unique customer on the platform
