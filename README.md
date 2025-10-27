@@ -47,6 +47,59 @@ Display a summary of total sales, profits and quantity for the current year and 
 -	Display the average weekly values.
 -	Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+## Data Dictionary
+
+<table>
+  <tr>
+    <th>Field Name</th>
+    <th>Type</th>
+    <th>Description</th>
+    <th>Example</th>
+  </tr>
+  <tr>
+    <td>User_ID</td>
+    <td>STRING</td>
+    <td>Unique ID for each user</td>
+    <td>USER-00023</td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td>STRING</td>
+    <td>User’s full name</td>
+    <td>Sarah Barr</td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>INTEGER</td>
+    <td>Age of user</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>Region</td>
+    <td>STRING</td>
+    <td>U.S. region</td>
+    <td>Midwest</td>
+  </tr>
+  <tr>
+    <td>State</td>
+    <td>STRING</td>
+    <td>U.S. state</td>
+    <td>Illinois</td>
+  </tr>
+  <tr>
+    <td>City</td>
+    <td>STRING</td>
+    <td>User’s city and state</td>
+    <td>Chicago, Illinois</td>
+  </tr>
+  <tr>
+    <td>Join_Date</td>
+    <td>DATE</td>
+    <td>Date user joined the platform</td>
+    <td>2023-06-01</td>
+  </tr>
+</table>
+
 ## Data Modelling
 
 ## Analysis
