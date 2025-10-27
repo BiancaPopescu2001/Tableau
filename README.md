@@ -49,7 +49,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Data Dictionary
 
-1. Customers - Each row represents a unique customer on the platform
+1. **Customers** - Each row represents a unique customer on the platform
 
 <table>
   <tr>
@@ -69,6 +69,53 @@ Display a summary of total sales, profits and quantity for the current year and 
     <td>STRING</td>
     <td>User’s full name</td>
     <td>Alex Avila</td>
+  </tr>
+</table>
+
+2. **Orders** - Each row represents an order placed by customer
+
+<table>
+  <tr>
+    <th>Order ID</th>
+    <th>STRING</th>
+    <th>Unique ID for each order</th>
+    <th>CA-2022-152156</th>
+  </tr>
+  <tr>
+    <td>Order Date</td>
+    <td>Date</td>
+    <td>The date when the order was placed by the customer</td>
+    <td>08.11.2022</td>
+  </tr>
+  <tr>
+    <td>Customer ID</td>
+    <td>STRING</td>
+    <td>Unique ID of the user who placed the order</td>
+    <td>CG-12520</td>
+  </tr>
+   <tr>
+    <td>Product ID</td>
+    <td>STRING</td>
+    <td>Unique ID of the product ordered by user</td>
+    <td>FUR-BO-10001798</td>
+  </tr>
+   <tr>
+    <td>Sales</td>
+    <td>FLOAT</td>
+    <td>Total cost of the order</td>
+    <td>261,96</td>
+  </tr>
+   <tr>
+    <td>Quantity</td>
+    <td>INTEGER</td>
+    <td>Total number of articles for each product ordered by customer</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Profit</td>
+    <td>FLOAT</td>
+    <td>Total profit of the order</td>
+    <td>41,9136</td>
   </tr>
 </table>
 
