@@ -168,7 +168,9 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## Data Modelling
 
-[![Data Modelling](https://github.com/BiancaPopescu2001/Tableau/blob/298dd4b73161beb4d60189eb4c01f1a27948ab98/data%20modelling.png)]
+The main orders table was related to the customers info and products tables using the Order ID, Customer ID columns
+
+![Data Modelling](https://github.com/BiancaPopescu2001/Tableau/blob/298dd4b73161beb4d60189eb4c01f1a27948ab98/data%20modelling.png)
 
 
 ## Analysis
